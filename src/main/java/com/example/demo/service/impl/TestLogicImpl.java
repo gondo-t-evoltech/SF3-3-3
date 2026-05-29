@@ -5,6 +5,6 @@ import com.example.demo.service.BusinessLogic;
 public class TestLogicImpl implements BusinessLogic {
 	@Override
 	public void doLogic() {
-		System,out,println("テストです");
+		System.out.println("テストです");
 	}
 }
